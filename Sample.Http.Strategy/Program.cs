@@ -13,7 +13,7 @@ namespace Sample.Http.Strategy
                 Console.WriteLine("2 or retry   : Retry sample");
                 Console.WriteLine();
                 Console.WriteLine("E.G.)");
-                Console.WriteLine("$ dotnet run timeout");
+                Console.WriteLine("$ dotnet run -- timeout");
 
                 Console.WriteLine("Press Enter Key to exit.");
                 Console.ReadLine();
